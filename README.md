@@ -78,16 +78,5 @@ Siswa
   email : siska@mail.com
   password : siska123
 ```
-## Update Selanjutnya
 
-(Free Version)
-- Fitur Pengumuman Sekolah
-
-(Premium Version)
-- Premium Template Metronic
-- Fitur Absensi
-- Fitur Kuis atau Ujian
-- Fitur Tabungan Siswa
-- Fitur Pembayaran Sekolah
-- Payment Gateway (Midtrans, Xendit, Tripay, dll)
 
