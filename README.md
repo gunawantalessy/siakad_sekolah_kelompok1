@@ -3,10 +3,6 @@
 
 Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 [Stisla](https://getstisla.com/)
-## Authors
-
-- [Pascal Adnan](https://www.github.com/lacsapadnan)
-
 
 ## Fitur
 
