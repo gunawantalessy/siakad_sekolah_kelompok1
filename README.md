@@ -28,8 +28,8 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 clone project atau download
 
 ```bash
-  git clone https://github.com/lacsapadnan/Sistem-Informasi-Sekolah.git
-  cd Sistem-Informasi-Sekolah
+  git clone git@github.com:gunawantalessy/siakad_sekolah_kelompok1.git
+  cd siakad_sekolah_kelompok1
   npm install
   composer install
   cp .env.example .env
