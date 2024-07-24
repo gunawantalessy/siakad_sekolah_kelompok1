@@ -3,7 +3,7 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 
  
 # Siakad Sekolah    
-  
+    
 
 
 ## Fitur
